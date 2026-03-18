@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/fernandoruanb/net_practice">
-    <img src="https://img.shields.io/badge/42-NetPractice-111111?style=for-the-badge" alt="NetPractice badge">
+    <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png" width="200" alt="Netpractice Badge"\>
   </a>
   <br>
   NetPractice
